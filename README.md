@@ -30,8 +30,8 @@ sudo dnf install ruby ruby-devel git-core zlib zlib-devel gcc-c++ patch readline
 
 ## Download and Run
 ```sh
-git clone https://github.com/FalixNodes-Software/falixnodes.net
-cd falixnodes.net
+git clone https://github.com/discord-unspy/website/
+cd website
 yarn install
 sudo bundle install
 ```
